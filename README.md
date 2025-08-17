@@ -32,9 +32,12 @@ The purpose of this project was to design and deploy a short household survey us
 - Support small business development (29% rely on business income).  
 - Improve internet access to strengthen digital inclusion.
 - Invest in internet connectivity to improve digital inclusion, especially in rural areas.
-- Also, there should  be provision for good hygiene water  supply in both  Rural and Cities 
+- Also, there should  be provision for good hygiene water  supply in both  Rural and Cities
 
-<img width="1422" height="126" alt="image" src="https://github.com/user-attachments/assets/20e04042-c3f5-4aff-9a67-9c354043ef79" />
+
+### 📊 Live Report 
+
+![Sales Dashboard](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/mtn.jpg)
 
 
 ---
