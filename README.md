@@ -2,13 +2,6 @@
 The purpose of this project was to design and deploy a short household survey using KoboToolbox  to collect and analyze basic demographic and economic data. The goal was to generate actionable insights for decision-making in community and development planning
 
 
-# Household Socio-Economic Survey Project
-
-## 📌 Project Overview
-This project demonstrates the **end-to-end process of digital data collection and analysis** using **KoboToolbox and Excel**.  
-A short household survey was designed, deployed, and analyzed to uncover insights about family size, income levels, and access to basic amenities in Nigerian households.
-
----
 
 ## 🎯 Aim
 - To design and deploy a household survey using KoboToolbox.  
@@ -26,7 +19,7 @@ A short household survey was designed, deployed, and analyzed to uncover insight
 
 ---
 
-## 🔎 Key Insights
+##  Key Insights
 
 
 - Average household size: 7.6 (median: 6), indicating relatively large family structures.
@@ -44,6 +37,7 @@ A short household survey was designed, deployed, and analyzed to uncover insight
 - Improve internet access to strengthen digital inclusion.
 - Invest in internet connectivity to improve digital inclusion, especially in rural areas.
 - Also, there should  be provision for good hygiene water  supply in both  Rural and Cities 
+
 <img width="1422" height="126" alt="image" src="https://github.com/user-attachments/assets/20e04042-c3f5-4aff-9a67-9c354043ef79" />
 
 
