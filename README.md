@@ -20,15 +20,11 @@ The purpose of this project was to design and deploy a short household survey us
 ---
 
 ##  Key Insights
-
-
 - Average household size: 7.6 (median: 6), indicating relatively large family structures.
 - Main income source: 64% salary, 29% business, 7% others.
 - Monthly household income range: 36% between ₦50k–₦100k, 36% between ₦50k–₦200k, above ₦200k, 21% and 7% below ₦50k.
  -Amenities: 93% have electricity, Sanitation 50% but only 36% report access to clean water and internet.
 - Community spread: Responses covered Lokoja (21%), Ibadan (21%), Okene,Lagos and other towns.
-
-<img width="2098" height="274" alt="image" src="https://github.com/user-attachments/assets/aa4799b4-6fe1-443e-9c83-7f565adcaf20" />
 
 
 ## 💡 Recommendations
