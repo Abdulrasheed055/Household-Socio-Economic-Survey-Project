@@ -49,8 +49,9 @@ The purpose of this project was to design and deploy a short household survey us
 ---
 
 ## 📂 Project Files
-- [⬇️ Download Household Survey Slides (PDF)](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/commit/002370aa8758941e7021a6a013feb742630ca96d#diff-fb38a859bd247786b4edec8e58255adbf3efff646c647c2850a2eb0ed90507e6)
+##  Project Presentation Slides
 
+- [⬇️ Download Project Slides (PPTX)](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/raw/main/project%20Collection-playful.pptx)
 - 📊 [Household Survey Data (Excel)](./Household_Survey_Data.xlsx)  
 - 📝 [Kobo Survey Form (XLSForm)](./Household_Survey_Form.xlsx)  
 
