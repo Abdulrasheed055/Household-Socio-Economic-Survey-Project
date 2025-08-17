@@ -23,8 +23,9 @@ The purpose of this project was to design and deploy a short household survey us
 - Average household size: 7.6 (median: 6), indicating relatively large family structures.
 - Main income source: 64% salary, 29% business, 7% others.
 - Monthly household income range: 36% between ₦50k–₦100k, 36% between ₦50k–₦200k, above ₦200k, 21% and 7% below ₦50k.
- -Amenities: 93% have electricity, Sanitation 50% but only 36% report access to clean water and internet.
-- Community spread: Responses covered Lokoja (21%), Ibadan (21%), Okene,Lagos and other towns.
+- Invest in internet connectivity to improve digital inclusion, especially in rural areas.
+- Also, there should  be provision for good hygiene water  supply in both  Rural and Cities
+
 
 
 ## 💡 Recommendations
@@ -35,9 +36,14 @@ The purpose of this project was to design and deploy a short household survey us
 - Also, there should  be provision for good hygiene water  supply in both  Rural and Cities
 
 
-### 📊 Live Report 
+### 📊 Live Report chart
 
-![Sales Dashboard](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/mtn.jpg)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form3.jpg)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form5.jpg)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form6.jpg)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form8.jpg)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/commit/9638b410f23db73c5c18f56ed5fa432db5c3195c)
+
 
 
 ---
