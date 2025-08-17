@@ -61,4 +61,4 @@ The purpose of this project was to design and deploy a short household survey us
 ## 👤 Author
 **Aminu Abdulrasheed**  
 Data Analyst | SQL • Excel • Power BI • Python  
-[LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/aminu-abdulrasheed-747597232/) | [Portfolio](https://github.com/Abdulrasheed055/Data-analyst-portfolio-)
