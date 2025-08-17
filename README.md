@@ -52,8 +52,7 @@ The purpose of this project was to design and deploy a short household survey us
 ##  Project Presentation Slides
 
 - [⬇️ Download Project Slides (PPTX)](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/raw/main/project%20Collection-playful.pptx)
-- 📊 [Household Survey Data (Excel)](./Household_Survey_Data.xlsx)  
-- 📝 [Kobo Survey Form (XLSForm)](./Household_Survey_Form.xlsx)  
+- 📝 [Kobo Survey Form](https://ee.kobotoolbox.org/x/pTGogFq1)  
 
 
 ## 🛠️ Tools & Skills
