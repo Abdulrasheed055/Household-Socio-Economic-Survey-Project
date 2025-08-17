@@ -42,7 +42,7 @@ The purpose of this project was to design and deploy a short household survey us
 ![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form5.jpg)
 ![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form6.jpg)
 ![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form8.jpg)
-![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/commit/9638b410f23db73c5c18f56ed5fa432db5c3195c)
+![Sales Dashboard](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/form9.jpg)
 
 
 
