@@ -23,9 +23,6 @@ The purpose of this project was to design and deploy a short household survey us
 - Average household size: 7.6 (median: 6), indicating relatively large family structures.
 - Main income source: 64% salary, 29% business, 7% others.
 - Monthly household income range: 36% between ₦50k–₦100k, 36% between ₦50k–₦200k, above ₦200k, 21% and 7% below ₦50k.
-- Invest in internet connectivity to improve digital inclusion, especially in rural areas.
-- Also, there should  be provision for good hygiene water  supply in both  Rural and Cities
-
 
 
 ## 💡 Recommendations
